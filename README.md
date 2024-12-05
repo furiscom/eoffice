@@ -38,7 +38,7 @@ Ikuti langkah-langkah berikut untuk menginstal aplikasi:
    - Sesuaikan konfigurasi server web sesuai kebutuhan Anda.  
 
 5. Jalankan aplikasi:  
-   - Buka browser dan akses `http://localhost/aplikasi-manajemen-surat`.  
+   - Buka browser dan akses `http://localhost/eoffice`.  
 
 ## Penggunaan  
 
